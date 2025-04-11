@@ -1,4 +1,4 @@
-# Privacy Policy for Party Player (PP App)
+# Privacy Policy for Party Player Pro
 
 **Effective Date:** April 11, 2025  
 **Developer:** Napps  
@@ -6,9 +6,9 @@
 
 ## Overview
 
-This Privacy Policy outlines how the **Party Player (PP App)** ("we", "our", or "us") collects, uses, and shares personal and sensitive user data. It applies to all users of the app, whether downloaded from the **Google Play Store** or the **Apple App Store**.
+This Privacy Policy outlines how the **Party Player Pro** ("we", "our", or "us") collects, uses, and shares personal and sensitive user data. It applies to all users of the app, whether downloaded from the **Google Play Store** or the **Apple App Store**.
 
-By using Party Player, you agree to the practices described in this policy.
+By using Party Player Pro, you agree to the practices described in this policy.
 
 ---
 
@@ -93,4 +93,4 @@ If you have any questions or concerns about this Privacy Policy or how your data
 
 ---
 
-**This Privacy Policy is clearly labeled, publicly accessible, non-editable, and viewable in a standard browser without special plug-ins. It applies to Party Player on both the Google Play Store and the Apple App Store.**
+**This Privacy Policy is clearly labeled, publicly accessible, non-editable, and viewable in a standard browser without special plug-ins. It applies to Party Player Pro on both the Google Play Store and the Apple App Store.**
